@@ -1,0 +1,302 @@
+[
+  {
+    "label": "Coolsingel",
+    "latLong": {
+      "latitude": 51.921668,
+      "longitude": 4.477739
+    },
+    "venues": [
+      {
+        "venue": "Anime Palace",
+        "latLong": {
+          "latitude": 51.920128,
+          "longitude": 4.478392
+        },
+        "animeList": {
+          "Action": [
+            "One Piece",
+            "Attack on Titan",
+            "Naruto",
+            "Bleach"
+          ],
+          "Fantasy": [
+            "Sword Art Online",
+            "Fairy Tail",
+            "Fullmetal Alchemist",
+            "The Seven Deadly Sins"
+          ],
+          "Sci-Fi": [
+            "Steins;Gate",
+            "Ghost in the Shell",
+            "Cowboy Bebop",
+            "Neon Genesis Evangelion"
+          ],
+          "Comedy": [
+            "One Punch Man",
+            "Gintama",
+            "Nichijou",
+            "Konosuba"
+          ],
+          "Drama": [
+            "Your Lie in April",
+            "Clannad",
+            "Anohana: The Flower We Saw That Day",
+            "Violet Evergarden"
+          ]
+        }
+      },
+      {
+        "venue": "Anime World",
+        "latLong": {
+          "latitude": 51.921114,
+          "longitude": 4.475389
+        },
+        "animeList": {
+          "Action": [
+            "Demon Slayer",
+            "My Hero Academia",
+            "Black Clover",
+            "Hunter x Hunter"
+          ],
+          "Fantasy": [
+            "Re:Zero − Starting Life in Another World",
+            "Overlord",
+            "The Rising of the Shield Hero",
+            "Goblin Slayer"
+          ],
+          "Sci-Fi": [
+            "Psycho-Pass",
+            "Serial Experiments Lain",
+            "A Certain Scientific Railgun",
+            "Ergo Proxy"
+          ],
+          "Comedy": [
+            "Kaguya-sama: Love Is War",
+            "The Disastrous Life of Saiki K.",
+            "Daily Lives of High School Boys",
+            "K-On!"
+          ],
+          "Drama": [
+            "March Comes in Like a Lion",
+            "Toradora!",
+            "Your Name",
+            "A Silent Voice"
+          ]
+        }
+      },
+      {
+        "venue": "Anime Haven",
+        "latLong": {
+          "latitude": 51.921942,
+          "longitude": 4.476754
+        },
+        "animeList": {
+          "Action": [
+            "Dragon Ball Z",
+            "One Punch Man",
+            "JoJo's Bizarre Adventure",
+            "Mob Psycho 100"
+          ],
+          "Fantasy": [
+            "Attack on Titan",
+            "The Ancient Magus' Bride",
+            "Berserk",
+            "Grimgar of Fantasy and Ash"
+          ],
+          "Sci-Fi": [
+            "Akira",
+            "Planetes",
+            "Knights of Sidonia",
+            "No Game No Life"
+          ],
+          "Comedy": [
+            "Great Teacher Onizuka",
+            "Hinamatsuri",
+            "KonoSuba: God's Blessing on this Wonderful World!",
+            "Prison School"
+          ],
+          "Drama": [
+            "Shigatsu wa Kimi no Uso",
+            "Violet Evergarden",
+            "Clannad: After Story",
+            "Your Lie in April"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "Wijnhaven",
+    "latLong": {
+      "latitude": 51.918589,
+      "longitude": 4.487846
+    },
+    "venues": [
+      {
+        "venue": "Anime Planet",
+        "latLong": {
+          "latitude": 51.918179,
+          "longitude": 4.486763
+        },
+        "animeList": {
+          "Action": [
+            "Dragon Ball Super",
+            "Tokyo Ghoul",
+            "Black Lagoon",
+            "Fate/stay night: Unlimited Blade Works"
+          ],
+          "Fantasy": [
+            "One Piece",
+            "Fullmetal Alchemist: Brotherhood",
+            "Magi: The Labyrinth of Magic",
+            "The Promised Neverland"
+          ],
+          "Sci-Fi": [
+            "Steins;Gate",
+            "Psycho-Pass",
+            "Ghost in the Shell: Stand Alone Complex",
+            "Astra Lost in Space"
+          ],
+          "Comedy": [
+            "Nichijou - My Ordinary Life",
+            "The Devil Is a Part-Timer!",
+            "Grand Blue",
+            "Saiki Kusuo no Psi-nan"
+          ],
+          "Drama": [
+            "Your Lie in April",
+            "Anohana: The Flower We Saw That Day",
+            "Rascal Does Not Dream of Bunny Girl Senpai",
+            "Violet Evergarden"
+          ]
+        }
+      },
+      {
+        "venue": "Anime Central",
+        "latLong": {
+          "latitude": 51.917881,
+          "longitude": 4.484073
+        },
+        "animeList": {
+          "Action": [
+            "Demon Slayer",
+            "My Hero Academia",
+            "Black Clover",
+            "Hunter x Hunter"
+          ],
+          "Fantasy": [
+            "Re:Zero − Starting Life in Another World",
+            "Overlord",
+            "The Rising of the Shield Hero",
+            "Goblin Slayer"
+          ],
+          "Sci-Fi": [
+            "Psycho-Pass",
+            "Serial Experiments Lain",
+            "A Certain Scientific Railgun",
+            "Ergo Proxy"
+          ],
+          "Comedy": [
+            "Kaguya-sama: Love Is War",
+            "The Disastrous Life of Saiki K.",
+            "Daily Lives of High School Boys",
+            "K-On!"
+          ],
+          "Drama": [
+            "March Comes in Like a Lion",
+            "Toradora!",
+            "Your Name",
+            "A Silent Voice"
+          ]
+        }
+      },
+      {
+        "venue": "Otaku Paradise",
+        "latLong": {
+          "latitude": 51.917273,
+          "longitude": 4.484821
+        },
+        "animeList": {
+          "Action": [
+            "Dragon Ball Z",
+            "One Punch Man",
+            "JoJo's Bizarre Adventure",
+            "Mob Psycho 100"
+          ],
+          "Fantasy": [
+            "Attack on Titan",
+            "The Ancient Magus' Bride",
+            "Berserk",
+            "Grimgar of Fantasy and Ash"
+          ],
+          "Sci-Fi": [
+            "Akira",
+            "Planetes",
+            "Knights of Sidonia",
+            "No Game No Life"
+          ],
+          "Comedy": [
+            "Great Teacher Onizuka",
+            "Hinamatsuri",
+            "KonoSuba: God's Blessing on this Wonderful World!",
+            "Prison School"
+          ],
+          "Drama": [
+            "Shigatsu wa Kimi no Uso",
+            "Violet Evergarden",
+            "Clannad: After Story",
+            "Your Lie in April"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "label": "Markthal",
+    "latLong": {
+      "latitude": 51.920079,
+      "longitude": 4.488446
+    },
+    "venues": [
+      {
+        "venue": "Anime Dream",
+        "latLong": {
+          "latitude": 51.919421,
+          "longitude": 4.487312
+        },
+        "animeList": {
+          "Action": [
+            "Dragon Ball Super",
+            "Tokyo Ghoul",
+            "Black Lagoon",
+            "Fate/stay night: Unlimited Blade Works"
+          ],
+          "Fantasy": [
+            "One Piece",
+            "Fullmetal Alchemist: Brotherhood",
+            "Magi: The Labyrinth of Magic",
+            "The Promised Neverland"
+          ],
+          "Sci-Fi": [
+            "Steins;Gate",
+            "Psycho-Pass",
+            "Ghost in the Shell: Stand Alone Complex",
+            "Astra Lost in Space"
+          ],
+          "Comedy": [
+            "Nichijou - My Ordinary Life",
+            "The Devil Is a Part-Timer!",
+            "Grand Blue",
+            "Saiki Kusuo no Psi-nan"
+          ],
+          "Drama": [
+            "Your Lie in April",
+            "Anohana: The Flower We Saw That Day",
+            "Rascal Does Not Dream of Bunny Girl Senpai",
+            "Violet Evergarden"
+          ]
+        }
+      }
+    ]
+  }
+]
